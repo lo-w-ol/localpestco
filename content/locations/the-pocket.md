@@ -1,4 +1,5 @@
 +++
+noindex = true
 title = "Pest Control The Pocket | Local Pest Co"
 description = "Licensed, eco-conscious pest control in The Pocket for homes and businesses. Visits are scheduled around regular service runs across Byron Shire."
 keywords = [

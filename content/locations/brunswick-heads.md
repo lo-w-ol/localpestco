@@ -1,4 +1,5 @@
 +++
+noindex = true
 title = "Pest Control Brunswick Heads | Local Pest Co"
 description = "Licensed, eco-conscious pest control in Brunswick Heads for homes and businesses. Visits are scheduled around regular service runs across Byron Shire."
 keywords = [

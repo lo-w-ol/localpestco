@@ -1,4 +1,5 @@
 +++
+noindex = true
 title = "Pest Control Binna Burra | Local Pest Co"
 description = "Licensed, eco-conscious pest control in Binna Burra for homes and businesses. Visits are scheduled around regular service runs across Byron Shire."
 keywords = [

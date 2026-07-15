@@ -1,4 +1,5 @@
 +++
+noindex = true
 title = "Pest Control Pearces Creek | Local Pest Co"
 description = "Licensed, eco-conscious pest control in Pearces Creek for homes and businesses. Visits are scheduled around regular service runs across Ballina Shire."
 keywords = [

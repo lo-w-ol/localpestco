@@ -1,4 +1,5 @@
 +++
+noindex = true
 title = "Pest Control Stokers Siding | Local Pest Co"
 description = "Licensed, eco-conscious pest control in Stokers Siding for homes and businesses. Visits are scheduled around regular service runs across Tweed Valley."
 keywords = [

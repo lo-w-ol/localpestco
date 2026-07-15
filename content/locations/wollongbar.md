@@ -1,4 +1,5 @@
 +++
+noindex = true
 title = "Pest Control Wollongbar | Local Pest Co"
 description = "Licensed, eco-conscious pest control in Wollongbar for homes and businesses. Visits are scheduled around regular service runs across Ballina Shire."
 keywords = [

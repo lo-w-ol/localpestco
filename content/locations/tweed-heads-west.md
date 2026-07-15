@@ -1,4 +1,5 @@
 +++
+noindex = true
 title = "Pest Control Tweed Heads West | Local Pest Co"
 description = "Licensed, eco-conscious pest control in Tweed Heads West for homes and businesses. Visits are scheduled around regular service runs across Tweed Coast."
 keywords = [

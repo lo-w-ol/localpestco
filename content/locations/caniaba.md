@@ -1,4 +1,5 @@
 +++
+noindex = true
 title = "Pest Control Caniaba | Local Pest Co"
 description = "Licensed, eco-conscious pest control in Caniaba for homes and businesses. Visits are scheduled around regular service runs across Lismore Region."
 keywords = [

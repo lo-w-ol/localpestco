@@ -44,6 +44,7 @@
   {{- $robots := "index,follow" -}}
   {{- if .Params.noindex }}{{ $robots = "noindex,follow" }}{{ end -}}
   {{- with .Params.robots }}{{ $robots = . }}{{ end -}}
+  {{- if and .IsNode .Paginator (gt .Paginator.PageNumber 1) }}{{ $robots = "noindex,follow" }}{{ end -}}
   {{- if eq .RelPermalink "/404.html" }}{{ $robots = "noindex,follow" }}{{ end -}}
   <meta name="robots" content="{{ $robots }}">
 

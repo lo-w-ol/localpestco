@@ -1,12 +1,12 @@
 +++
 title = "Pest Control Services Kingscliff | Local Pest Co"
-description = "Comprehensive pest control for Kingscliff and Tweed Coast homes and businesses, covering residential, commercial, termite, and eco-friendly treatments."
-meta_desc = "Comprehensive pest control for Kingscliff and Tweed Coast homes and businesses, covering residential, commercial, termite, and eco-friendly treatments."
+description = "Comprehensive pest control for Kingscliff and Tweed Coast homes and businesses, covering residential, commercial, termite, and low-chemical options."
+meta_desc = "Comprehensive pest control for Kingscliff and Tweed Coast homes and businesses, covering residential, commercial, termite, and low-chemical options."
 keywords = ["Kingscliff termite treatment", "Tweed Coast rodent control", "ant and cockroach solutions"]
 [seo]
 h1 = "Pest Control Services in Kingscliff"
-subhead = "Residential, commercial, termite, and eco-friendly treatments for Tweed Coast properties."
-description = "Comprehensive pest control for Kingscliff and Tweed Coast homes and businesses, covering residential, commercial, termite, and eco-friendly treatments."
+subhead = "Residential, commercial, termite, and low-chemical options for Tweed Coast properties."
+description = "Comprehensive pest control for Kingscliff and Tweed Coast homes and businesses, covering residential, commercial, termite, and low-chemical options."
 [service]
 name = "Pest Control Services"
 serviceType = "Pest control"
@@ -23,7 +23,7 @@ answer = "I book jobs into planned runs across the Tweed Coast and will confirm 
 
 {{< seo_h1 >}}
 
-From Kingscliff to the wider Tweed Coast, I deliver integrated pest control programs that protect homes, rentals, and workplaces while keeping families, pets, and pollinators safe.
+From Kingscliff to the wider Tweed Coast, I deliver integrated pest control programs that help protect homes, rentals and workplaces with targeted treatment and practical precautions.
 
 ## Comprehensive Pest Solutions
 
@@ -40,7 +40,7 @@ Food-safe pest management for businesses.
 #### [Timber Pest Control](/timber-pest-control/)
 Licensed inspections and treatments for timber pests.
 
-#### [Eco-Friendly Pest Control](/eco-friendly-pest-control/)
+#### [Low-Chemical Pest Control](/eco-friendly-pest-control/)
 Environmentally conscious pest solutions.
 
 #### [Termite Control](/termite-control-northern-rivers/)

@@ -1,4 +1,5 @@
 +++
+noindex = true
 title = "Pest Control Dunoon | Local Pest Co"
 description = "Licensed, eco-conscious pest control in Dunoon for homes and businesses. Visits are scheduled around regular service runs across Lismore Region."
 keywords = [

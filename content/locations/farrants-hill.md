@@ -1,4 +1,5 @@
 +++
+noindex = true
 title = "Pest Control Farrants Hill | Local Pest Co"
 description = "Licensed, eco-conscious pest control in Farrants Hill for homes and businesses. Visits are scheduled around regular service runs across Tweed Valley."
 keywords = [

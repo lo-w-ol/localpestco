@@ -1,68 +1,43 @@
 +++
-title = "Pest Control Tanglewood | Local Pest Co"
-description = "Licensed, eco-conscious pest control in Tanglewood for homes and businesses. Visits are scheduled around regular service runs across Tweed Valley."
-keywords = [
-  "Tanglewood pest control",
-  "Tweed Valley termite treatment",
-  "rodent removal Tanglewood",
-  "ant exterminator Round Mountain"
-]
-
+title = "Termite & Timber Pest Inspections Tanglewood | Local Pest Co"
+description = "Owner-operated termite and timber pest inspections for Tanglewood and nearby Round Mountain properties. Call Shannon for clear findings and next steps."
+meta_desc = "Owner-operated termite and timber pest inspections for Tanglewood and nearby Round Mountain properties. Call Shannon for clear findings and next steps."
 [seo]
 canonical = "https://localpest.co/locations/tanglewood/"
-h1 = "Local Pest Control in Tanglewood"
-subhead = "Licensed NSW EPA technician providing targeted, low-tox treatments across Tweed Valley."
-[[faq]]
-question = "Is your pest control safe for kids and pets?"
-answer = "Yes. I use targeted, low-tox options and explain what each product does. Please cover food bowls and toys before I start. Once areas are dry, kids and pets can return as normal."
+h1 = "Termite and Timber Pest Inspections in Tanglewood"
+subhead = "Owner-operated inspection, treatment advice and prevention planning for Tanglewood and nearby Round Mountain properties."
+description = "Owner-operated termite and timber pest inspections for Tanglewood and nearby Round Mountain properties. Call Shannon for clear findings and next steps."
 
 [[faq]]
-question = "How soon can you visit my place?"
-answer = "Bookings are slotted into my existing run so I can cover the region efficiently. I’ll confirm the first available time when you call or email and keep you updated if weather or other jobs shift the plan."
+question = "Do you service Tanglewood?"
+answer = "Yes. Local Pest Co books visits into regular Tweed Coast and Northern Rivers service runs and confirms the first practical appointment time."
 
 [[faq]]
-question = "Do you handle termites?"
-answer = "Yes — inspections, treatments and follow-up plans. NSW EPA licence 5073077 (timber pests). I’ll explain any treatment zones in plain language and provide written notes after the visit."
-
-[[faq]]
-question = "Is there a service warranty?"
-answer = "Yes — tailored to the pest. I’ll explain coverage length before treatment. If pests return during that period, I come back at no labour cost."
-
-[[faq]]
-question = "What should I do before you arrive?"
-answer = "Tidy access to affected rooms and move pets to a safe area. Let me know about allergies or concerns beforehand so I can choose the right products."
+question = "Can you choose a termite treatment before visiting?"
+answer = "No. Treatment recommendations depend on the inspection findings, construction, access, moisture and activity found on site."
 +++
+
 {{< seo_h1 >}}
 
-Licensed NSW EPA pest management technician (Lic. 5073077) delivering targeted, low-tox treatments for homes and businesses in Tanglewood. Support is booked around regular service runs across Tweed Valley.
+Local Pest Co provides owner-operated termite and timber pest inspections for Tanglewood and nearby Round Mountain properties. Shannon focuses on practical findings, clear limitations and next steps that match the property rather than using a fixed suburb template.
 
-[Call 0405 508 035](tel:0405508035) — Book with Shannon.  
-[Email for a quote](mailto:thelocalpestco@bigpond.com) — Reply within one business day.
+[Call 0405 508 035](tel:0405508035) or [email for a quote](mailto:thelocalpestco@bigpond.com).
 
-## Why choose Local Pest Co
-- Fast visits across nearby suburbs  
-- Targeted, low-tox treatments considering kids, pets, and pollinators  
-- Clear quotes before any work, plus simple prevention tips  
-- Aboriginal-owned, with practical knowledge of local coastal and hinterland pests
+## Local inspection considerations
 
-## What we treat
-Termites, rodents, ants, spiders, cockroaches, and other common Tweed Valley pests for homes and workplaces. See the full list on our [Services](/services/) page.
+Tree cover, moisture, retaining walls, decks, sheds and stored materials can create termite harbourage or inspection limits. These are considerations for inspection and prevention planning, not claims that every property in the area has the same issue.
 
-### How it works
-1. **Inspect** — Entry points, moisture, and activity  
-2. **Treat** — Targeted products suited to your property  
-3. **Protect** — Prevention advice and monitoring if needed  
-4. **Follow up** — Check results and schedule future checks when required
+## Services available
 
-## Areas we serve
-Tanglewood, Round Mountain, Reserve Creek, and Cudgera Creek plus surrounding Tweed Valley communities. See more suburbs on our [Locations](/locations/) page. Prefer to chat? Call 0405 508 035.
+- [Termite inspections in Kingscliff and the Tweed Coast](/) for visible activity, conducive conditions and prevention advice.
+- [Termite treatment, baiting and monitoring](/termite-control-northern-rivers/) when inspection findings show active termites or elevated risk.
+- [Pre-purchase timber pest inspections](/timber-pest-control/) for buyers, sellers and property managers who need a report before a property decision.
+- [Low-chemical pest management](/eco-friendly-pest-control/) where targeted treatment is suitable after assessment.
 
-## Caring for Country in our work
-Caring for Country guides every visit: respect for land, waterways and people. We assess sites carefully, choose targeted treatments, and avoid harm to non-target species — combining cultural responsibility with effective modern practice. Learn more on our [About](/about/) page.
+## What happens during a visit
 
-## Contact
-**Local Pest Co**  
-Phone: [0405 508 035](tel:0405508035)  
-Email: [thelocalpestco@bigpond.com](mailto:thelocalpestco@bigpond.com)  
-Address: 23 Dinsey Street, Kingscliff NSW 2487
+Shannon checks accessible areas, discusses known concerns, records visible evidence and explains limitations such as locked spaces, stored goods, concealed timbers or unsafe access. You receive plain-language advice and a recommended next step.
 
+## Book a visit
+
+For urgent concerns, phone [0405 508 035](tel:0405508035). To send property details or photos first, email [thelocalpestco@bigpond.com](mailto:thelocalpestco@bigpond.com).

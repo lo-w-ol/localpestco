@@ -1,4 +1,5 @@
 +++
+noindex = true
 title = "Pest Control Fernleigh | Local Pest Co"
 description = "Licensed, eco-conscious pest control in Fernleigh for homes and businesses. Visits are scheduled around regular service runs across Ballina Shire."
 keywords = [

@@ -1,4 +1,5 @@
 +++
+noindex = true
 title = "Pest Control Coopers Shoot | Local Pest Co"
 description = "Licensed, eco-conscious pest control in Coopers Shoot for homes and businesses. Visits are scheduled around regular service runs across Byron Shire."
 keywords = [

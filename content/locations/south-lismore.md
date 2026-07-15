@@ -1,4 +1,5 @@
 +++
+noindex = true
 title = "Pest Control South Lismore | Local Pest Co"
 description = "Licensed, eco-conscious pest control in South Lismore for homes and businesses. Visits are scheduled around regular service runs across Lismore Region."
 keywords = [

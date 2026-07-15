@@ -10,11 +10,11 @@ description = "Learn about Local Pest Co and its owner Shannon Kitchener, a King
 
 [[faq]]
 question = "Are you licensed for pest control?"
-answer = "Yes, I'm fully licensed and insured to provide pest management across NSW."
+answer = "Local Pest Co displays licence number 5073077. Please confirm the current legal scope with the NSW licence register or owner if required."
 
 [[faq]]
 question = "Do you guarantee your work?"
-answer = "All treatments include practical follow-up advice and a service guarantee."
+answer = "Treatments include practical follow-up advice. Any return visit terms are explained before work starts."
 +++
 
 {{< seo_h1 >}}
@@ -23,7 +23,7 @@ Local Pest Co is a Wiradjuri and Bundjalung owned business delivering licensed p
 
 ## Our Story
 
-Founded and operated by me, an *Aboriginal* local, **Local Pest Co** combines my community knowledge with licensed pest management techniques for Kingscliff and surrounding suburbs. I focus on safe methods that respect families, pets, and the environment while keeping Tweed Coast homes pest-free.
+Founded and operated by me, an *Aboriginal* local, **Local Pest Co** combines my community knowledge with licensed pest management techniques for Kingscliff and surrounding suburbs. I focus on targeted methods with preparation and re-entry advice for occupants, pets and sensitive areas while keeping Tweed Coast homes pest-free.
 
 ### Meet Shannon Kitchener
 

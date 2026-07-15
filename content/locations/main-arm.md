@@ -1,4 +1,5 @@
 +++
+noindex = true
 title = "Pest Control Main Arm | Local Pest Co"
 description = "Licensed, eco-conscious pest control in Main Arm for homes and businesses. Visits are scheduled around regular service runs across Byron Shire."
 keywords = [
