@@ -1,4 +1,5 @@
 +++
+noindex = true
 title = "Pest Control Tintenbar | Local Pest Co"
 description = "Licensed, eco-conscious pest control in Tintenbar for homes and businesses. Visits are scheduled around regular service runs across Ballina Shire."
 keywords = [

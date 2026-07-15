@@ -1,4 +1,5 @@
 +++
+noindex = true
 title = "Pest Control McLeans Ridges | Local Pest Co"
 description = "Licensed, eco-conscious pest control in McLeans Ridges for homes and businesses. Visits are scheduled around regular service runs across Ballina Shire."
 keywords = [

@@ -17,7 +17,7 @@ areaServed = ["Kingscliff NSW", "Tweed Coast NSW"]
 
 Keeping your home pest-free protects your family and property. I provide targeted treatments for ants, cockroaches, rodents, spiders and more across the Tweed Coast.
 
-All products are chosen for low toxicity so your household, pets and neighbours stay safe.
+Products and methods are selected after assessment, with preparation and re-entry guidance for occupants, pets and neighbours.
 
 Looking for help at your business? See our [commercial pest control services](/commercial-pest-control/) for food-safe solutions.
 

@@ -1,4 +1,5 @@
 +++
+noindex = true
 title = "Pest Control Pottsville | Local Pest Co"
 description = "Licensed, eco-conscious pest control in Pottsville for homes and businesses. Visits are scheduled around regular service runs across Tweed Coast."
 keywords = [

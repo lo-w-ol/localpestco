@@ -1,4 +1,5 @@
 +++
+noindex = true
 title = "Pest Control Tucki Tucki | Local Pest Co"
 description = "Licensed, eco-conscious pest control in Tucki Tucki for homes and businesses. Visits are scheduled around regular service runs across Lismore Region."
 keywords = [

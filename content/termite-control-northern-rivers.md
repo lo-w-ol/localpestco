@@ -1,48 +1,60 @@
 +++
-title = "Termite Control Northern Rivers | Local Pest Co"
-description = "Licensed termite inspections and treatments for Northern Rivers homes with early detection, targeted baiting, and monitoring across Kingscliff."
-meta_desc = "Licensed termite inspections and treatments for Northern Rivers homes with early detection, targeted baiting, and monitoring across Kingscliff."
-keywords = ["Northern Rivers termite control", "termite inspections NSW", "licensed termite treatment"]
+title = "Termite Treatment & Baiting Kingscliff | Local Pest Co"
+description = "Detailed termite treatment, baiting and monitoring advice for Kingscliff and Tweed Coast properties after active termites are found."
+meta_desc = "Detailed termite treatment, baiting and monitoring advice for Kingscliff and Tweed Coast properties after active termites are found."
+keywords = ["termite baiting systems Kingscliff", "termite treatment Kingscliff", "termite monitoring Tweed Coast"]
 [seo]
-h1 = "Termite Control in the Northern Rivers"
-subhead = "Licensed inspections, baiting, and monitoring plans for Kingscliff and Tweed Coast properties."
-description = "Licensed termite inspections and treatments for Northern Rivers homes with early detection, targeted baiting, and monitoring across Kingscliff."
+h1 = "Termite Treatment, Baiting & Monitoring"
+subhead = "Inspection-led termite treatment recommendations for Kingscliff and Northern Rivers properties."
+description = "Detailed termite treatment, baiting and monitoring advice for Kingscliff and Tweed Coast properties after active termites are found."
 [service]
-name = "Termite Control"
-serviceType = "Termite control"
-areaServed = ["Northern Rivers NSW", "Kingscliff NSW", "Tweed Coast NSW"]
+name = "Termite Treatment and Baiting"
+serviceType = "Termite treatment"
+areaServed = ["Kingscliff NSW", "Tweed Coast NSW", "Northern Rivers NSW"]
 
 [[faq]]
-question = "How often should I get a termite inspection?"
-answer = "An annual inspection is recommended, especially in high-risk areas like the Northern Rivers."
+question = "Can you quote a termite treatment over the phone?"
+answer = "Only broad guidance is possible before inspection. The treatment plan depends on activity, construction, access and moisture conditions."
 
 [[faq]]
-question = "What are common signs of termites?"
-answer = "Look for mud tubes, hollow-sounding timber and discarded wings around windows."
+question = "Are baiting systems always the answer?"
+answer = "No. Baiting and monitoring can be useful, but direct treatment or a treated-zone approach may be more suitable after assessment."
 +++
 
 {{< seo_h1 >}}
 
-Termites move quickly through the warm, coastal climate of the Northern Rivers, so I focus on early detection, baiting, and follow-up monitoring to protect timber homes from costly damage.
+When active termites are found, the next step is not a one-size-fits-all spray. Local Pest Co inspects the activity, building construction and access limits before recommending a practical termite treatment, baiting or monitoring plan.
 
-## Local Termite Expertise
+[Call 0405 508 035](tel:0405508035) to discuss active termites or [request a quote](mailto:thelocalpestco@bigpond.com).
 
-Termites thrive in the warm, humid conditions of the Northern Rivers. I focus on early detection and prevention to protect timber homes from costly damage.
+## What happens after active termites are found
 
-## Signs of Termites in Northern Rivers Homes
+Shannon confirms where activity is visible, checks whether termites may be entering from concealed areas, documents limitations and explains immediate risk. Disturbing workings before assessment can make management harder, so customers are encouraged to call before removing mud tubes, damaged skirting or suspect timber.
 
-- Mud tubes along foundations and walls
-- Soft or hollow-sounding timber
-- Discarded wings near windowsills
+## Direct treatment versus long-term management
 
-## NSW Licensing & Regulations
+A direct treatment may be appropriate when activity and access allow targeted work. Long-term management may involve baiting, monitoring or a treated zone where the construction and site conditions suit that method. Local Pest Co does not promise a particular product or system until the property has been assessed.
 
-All termite work in New South Wales must be carried out by licensed professionals. I hold NSW EPA pest management technician licence number 5073077 ([EPA NSW](https://www.epa.nsw.gov.au/Your-environment/Pesticides/Licences-and-advice-for-occupational-pesticide-users/pest-management-technicians-fumigators-training-permits)), issued 20/02/2025 and valid until 14/01/2030.
+## Baiting and monitoring systems
 
-For homeowners, the EPA provides guidance on engaging accredited pest controllers and understanding treatment options ([EPA - Engaging a Pest Management Technician](https://www.epa.nsw.gov.au/Your-environment/Pesticides/pesticide-use-nsw/engaging-a-pest-management-technician)).
+Baiting and monitoring can help when termites are active in accessible locations or when ongoing surveillance is important. Stations require follow-up visits and patience; they are not an instant barrier. The inspection determines station placement, monitoring frequency and whether baiting should be combined with other work.
 
-## Book a Northern Rivers Termite Inspection
+## Chemical or treated-zone options
 
-Schedule a comprehensive termite inspection today to safeguard your Northern Rivers property.
+A treated-zone approach may be considered around suitable parts of a building, penetrations or entry points. Construction type, soil access, paving, drainage, additions and previous treatments can all affect whether this is practical. Any product recommendation must consider label directions and site conditions.
 
-Call me on 0405 508 035 or email thelocalpestco@bigpond.com to arrange an inspection.
+## How construction affects recommendations
+
+Slab edges, suspended floors, inaccessible voids, retaining walls, wet areas, garden beds against walls and timber-to-ground contact can change the recommended plan. The report notes access restrictions and conditions that increase termite pressure so the owner can reduce future risk.
+
+## Follow-up and monitoring
+
+Termite work usually needs follow-up. Depending on the findings, this may include monitoring stations, reinspection intervals, checking treated areas and confirming that conducive conditions have been reduced. Customers receive plain-language next steps instead of a generic promise.
+
+## Limitations
+
+No inspection can see through every wall, slab or concealed void. Further assessment may be required if activity is extensive, access is unsafe, building defects are suspected or invasive inspection is needed. Local Pest Co explains these limits before recommending escalation.
+
+## Relevant service areas
+
+This page supports termite treatment decisions for Kingscliff, [Tumbulgum](/locations/tumbulgum/), [Cobaki](/locations/cobaki/), [Cudgen](/locations/cudgen/) and nearby Tweed Coast communities. For initial checks, start with [termite inspections in Kingscliff](/).

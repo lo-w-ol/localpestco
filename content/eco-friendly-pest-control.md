@@ -1,42 +1,40 @@
 +++
-title = "Eco-Friendly Pest Control Kingscliff | Local Pest Co"
-description = "Environmentally conscious pest control for Kingscliff and Tweed Coast properties using low-tox products, cultural land care, and prevention strategies."
-meta_desc = "Environmentally conscious pest control for Kingscliff and Tweed Coast properties using low-tox products, cultural land care, and prevention strategies."
-keywords = ["guide to eco friendly pest control", "eco-friendly pest control methods", "eco safe pest control", "eco friendly pest solutions"]
+title = "Low-Chemical Pest Control Kingscliff | Local Pest Co"
+description = "Targeted low-chemical pest management in Kingscliff with practical precautions for occupants, pets and sensitive areas."
+meta_desc = "Targeted low-chemical pest management in Kingscliff with practical precautions for occupants, pets and sensitive areas."
+keywords = ["low chemical pest control Kingscliff", "targeted pest treatment Tweed Coast"]
 [seo]
-h1 = "Eco-Friendly Pest Control in Kingscliff"
-subhead = "Low-tox pest solutions that protect local wildlife, families, and the Tweed Coast environment."
-description = "Environmentally conscious pest control for Kingscliff and Tweed Coast properties using low-tox products, cultural land care, and prevention strategies."
+h1 = "Low-Chemical Pest Control in Kingscliff"
+subhead = "Targeted pest management that balances reduced chemical use with effective control."
+description = "Targeted low-chemical pest management in Kingscliff with practical precautions for occupants, pets and sensitive areas."
 [service]
-name = "Eco-Friendly Pest Control"
-serviceType = "Eco-friendly pest control"
+name = "Low-Chemical Pest Control"
+serviceType = "Low-chemical pest control"
 areaServed = ["Kingscliff NSW", "Tweed Coast NSW"]
-
-[[faq]]
-question = "Are eco-friendly pest control methods effective?"
-answer = "Yes, modern green treatments target pests while minimising impact on people and wildlife."
-
-[[faq]]
-question = "Will eco treatments harm my pets?"
-answer = "The products I use are chosen to be safe for families and pets when applied correctly."
 +++
 
 {{< seo_h1 >}}
 
-Eco-friendly pest control keeps your property comfortable while respecting the Tweed Coast environment and the wildlife that shares our community.
+Low-chemical pest control means using inspection, exclusion, sanitation advice, monitoring and targeted application before considering broader treatment. It does not mean every pest problem can be solved without pesticide or that any product is completely risk-free.
 
-## Why Eco-Friendly Pest Control Matters
+## What low chemical means in practice
 
-Choosing eco-friendly pest control protects local wildlife and keeps families safe from harsh chemicals.
+Shannon looks for entry points, moisture, harbourage and food sources first. Where a product is needed, the aim is to use the most targeted practical method, explain preparation steps and keep treatments away from unnecessary areas.
 
-## Simple Green Pest Solutions
+## When targeted treatment may be appropriate
 
-- Seal entry points to deter rodents and insects.
-- Use baits and traps before considering sprays.
-- Opt for low-toxicity treatments targeted to the pest.
+Targeted treatment may suit localised ant trails, cockroach harbourage, rodent entry points, spider activity around specific zones or termite management after inspection. The pest, building design and level of activity determine the plan.
 
-## Work With a Local Expert
+## Termite risk still comes first
 
-I combine safe products with cultural respect for the land, offering effective and environmentally conscious pest management across the Tweed Coast.
+For termites, efficacy and property protection must guide recommendations. A low-chemical preference is considered, but it cannot override label requirements, access limitations or the need for reliable termite management.
 
-Call me on 0405 508 035 or email thelocalpestco@bigpond.com to discuss eco-friendly options.
+## Occupant, pet and environmental precautions
+
+Before treatment, customers may be asked to clear access, cover food items, move pet bowls, keep animals away from work areas and avoid treated zones until advised. Sensitive areas such as waterways, gardens and play spaces are considered during planning.
+
+## When low-chemical is not appropriate
+
+Heavy infestations, active termite attack, unsafe access, repeated reinfestation or hygiene and structural issues may require a stronger integrated plan. Local Pest Co will explain why and outline practical alternatives.
+
+For termite-specific decisions, see [termite treatment and baiting](/termite-control-northern-rivers/) or [call 0405 508 035](tel:0405508035).

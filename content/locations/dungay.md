@@ -1,4 +1,5 @@
 +++
+noindex = true
 title = "Pest Control Dungay | Local Pest Co"
 description = "Licensed, eco-conscious pest control in Dungay for homes and businesses. Visits are scheduled around regular service runs across Tweed Valley."
 keywords = [

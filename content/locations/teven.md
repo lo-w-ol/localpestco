@@ -1,4 +1,5 @@
 +++
+noindex = true
 title = "Pest Control Teven | Local Pest Co"
 description = "Licensed, eco-conscious pest control in Teven for homes and businesses. Visits are scheduled around regular service runs across Ballina Shire."
 keywords = [

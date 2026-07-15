@@ -1,4 +1,5 @@
 +++
+noindex = true
 title = "Pest Control Bilambil Heights | Local Pest Co"
 description = "Licensed, eco-conscious pest control in Bilambil Heights for homes and businesses. Visits are scheduled around regular service runs across Tweed Coast."
 keywords = [

@@ -1,4 +1,5 @@
 +++
+noindex = true
 title = "Pest Control Chilcotts Grass | Local Pest Co"
 description = "Licensed, eco-conscious pest control in Chilcotts Grass for homes and businesses. Visits are scheduled around regular service runs across Lismore Region."
 keywords = [

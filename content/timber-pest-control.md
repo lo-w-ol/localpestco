@@ -1,34 +1,48 @@
 +++
-title = "Timber Pest Control Kingscliff | Local Pest Co"
-description = "Licensed timber pest inspections and treatments protecting Kingscliff homes and businesses across the Tweed Coast from termites, borers, and decay."
-meta_desc = "Licensed timber pest inspections and treatments protecting Kingscliff homes and businesses across the Tweed Coast from termites, borers, and decay."
-keywords = ["timber pest control", "licensed pest inspector", "timber pest treatment", "wood pest inspection"]
+title = "Pre-Purchase Timber Pest Inspections Kingscliff | Local Pest Co"
+description = "Pre-purchase timber pest inspections for Kingscliff buyers, sellers and managers with photos, reporting and clear access limitations."
+meta_desc = "Pre-purchase timber pest inspections for Kingscliff buyers, sellers and managers with photos, reporting and clear access limitations."
+keywords = ["pre purchase timber pest inspection Kingscliff", "timber pest inspection Tweed Coast"]
 [seo]
-h1 = "Timber Pest Control in Kingscliff"
-subhead = "Licensed inspections and treatments safeguarding Tweed Coast properties from termites and borers."
-description = "Licensed timber pest inspections and treatments protecting Kingscliff homes and businesses across the Tweed Coast from termites, borers, and decay."
+h1 = "Pre-Purchase Timber Pest Inspections"
+subhead = "Timber pest inspection reports for property decisions before settlement or listing."
+description = "Pre-purchase timber pest inspections for Kingscliff buyers, sellers and managers with photos, reporting and clear access limitations."
 [service]
-name = "Timber Pest Control"
-serviceType = "Timber pest control"
+name = "Pre-Purchase Timber Pest Inspections"
+serviceType = "Timber pest inspection"
 areaServed = ["Kingscliff NSW", "Tweed Coast NSW"]
 +++
 
 {{< seo_h1 >}}
 
-Protect the structure of your home or business with thorough timber pest inspections that identify termites, borers, and fungal decay before they spread.
+A pre-purchase timber pest inspection helps buyers understand visible termite activity, termite damage, borers, timber decay and conditions that may increase future risk before committing to a property.
 
-## What Is Timber Pest Control?
+## What is inspected
 
-Timber pests such as termites, borers and fungal decay attack the wooden structures that keep your property standing. Timber pest control involves inspecting, treating and monitoring for these destructive organisms so they do not compromise your home or business.
+Accessible interior areas, roof voids, subfloor spaces, exterior timbers, fences, landscaping edges, moisture-prone zones and visible structural timbers are checked where safe access is available. Limitations are recorded instead of being hidden.
 
-## Why Licensing Matters
+## Access requirements
 
-Timber pest management requires specialised knowledge of building construction, pest biology and safe application of termiticides. In New South Wales, a professional license ensures the operator has the training and insurance to protect your property. Hiring a licensed technician shields you from ineffective treatments and costly structural damage.
+The inspection relies on safe access to rooms, roof void entries, subfloor entries, garages, outbuildings and the building perimeter. Locked areas, stored goods, low crawl spaces, unsafe roofs or concealed wall cavities may limit what can be inspected.
 
-## Experienced Local Expert
+## What you receive
 
-I hold the required timber pest management license and bring years of hands-on experience treating properties across the Tweed Coast. My approach combines thorough inspections with targeted, low-toxicity treatments that respect your family and the environment.
+Customers receive a timber pest report with findings, relevant photos, visible evidence, conducive conditions, limitations and recommended next steps. The report is intended to support property decisions; it is not a complete building inspection.
 
-## Book Your Timber Pest Service
+## Timber pest versus building inspection
 
-Safeguard your investment with a licensed timber pest specialist. Call me on 0405 508 035 or email thelocalpestco@bigpond.com to schedule an inspection or treatment today.
+A timber pest inspection focuses on termites, borers, fungal decay and conditions conducive to timber pest attack. A broader building inspection considers structural and maintenance issues outside that timber pest scope. If you need a complete building inspection, arrange that separately with an appropriately qualified provider.
+
+## Timing before settlement
+
+Book as early as possible once access can be arranged. Buyers often need enough time to review findings, seek further advice or negotiate before settlement deadlines.
+
+## Buyer, seller and manager use cases
+
+Buyers use reports to understand risk before purchase. Sellers may inspect before listing to avoid surprises. Property managers can use inspections to document timber pest concerns and plan follow-up.
+
+## Exclusions and limitations
+
+No non-invasive inspection can guarantee concealed termites are absent. Furniture, stored goods, wall linings, slab edges, moisture, inaccessible voids and recent disturbance may limit findings. Where further invasive assessment or specialist building advice is needed, Shannon will say so.
+
+[Call 0405 508 035](tel:0405508035) or [email Local Pest Co](mailto:thelocalpestco@bigpond.com) to arrange timing.

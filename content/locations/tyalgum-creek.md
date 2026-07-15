@@ -1,4 +1,5 @@
 +++
+noindex = true
 title = "Pest Control Tyalgum Creek | Local Pest Co"
 description = "Licensed, eco-conscious pest control in Tyalgum Creek for homes and businesses. Visits are scheduled around regular service runs across Tweed Valley."
 keywords = [

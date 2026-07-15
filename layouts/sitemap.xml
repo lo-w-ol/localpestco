@@ -1,0 +1,17 @@
+{{ printf "<?xml version=\"1.0\" encoding=\"utf-8\" standalone=\"yes\"?>" | safeHTML }}
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+{{- $prod := .Site.Params.productionBaseURL | default .Site.BaseURL -}}
+{{- range .Site.RegularPages -}}
+  {{- if and (not .Params.noindex) (not (in .RelPermalink "llms")) -}}
+  <url><loc>{{ replace .Permalink .Site.BaseURL $prod }}</loc>{{ with .Lastmod }}<lastmod>{{ .Format "2006-01-02" }}</lastmod>{{ end }}</url>
+  {{- end -}}
+{{- end -}}
+{{- if not .Site.Home.Params.noindex }}
+  <url><loc>{{ $prod }}</loc>{{ with .Site.Home.Lastmod }}<lastmod>{{ .Format "2006-01-02" }}</lastmod>{{ end }}</url>
+{{- end }}
+{{- range .Site.Sections -}}
+  {{- if not .Params.noindex -}}
+  <url><loc>{{ replace .Permalink .Site.BaseURL $prod }}</loc>{{ with .Lastmod }}<lastmod>{{ .Format "2006-01-02" }}</lastmod>{{ end }}</url>
+  {{- end -}}
+{{- end -}}
+</urlset>

@@ -1,4 +1,5 @@
 +++
+noindex = true
 title = "Pest Control Ewingsdale | Local Pest Co"
 description = "Licensed, eco-conscious pest control in Ewingsdale for homes and businesses. Visits are scheduled around regular service runs across Byron Shire."
 keywords = [

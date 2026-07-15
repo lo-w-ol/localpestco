@@ -96,3 +96,35 @@ document.addEventListener('DOMContentLoaded', () => {
     window.addEventListener('scroll', handleScroll);
   }
 });
+
+function trackLocalPestEvent(eventName, parameters = {}) {
+  if (typeof window.gtag === 'function') {
+    window.gtag('event', eventName, parameters);
+  }
+}
+
+document.addEventListener('click', event => {
+  const link = event.target.closest('a, button');
+  if (!link) return;
+  const href = link.getAttribute('href') || '';
+  const configured = link.dataset.analyticsEvent;
+  if (configured) {
+    trackLocalPestEvent(configured, { link_url: href, cta_id: link.id || link.dataset.cta || '' });
+    return;
+  }
+  if (href.startsWith('tel:')) {
+    trackLocalPestEvent('click_to_call', { link_url: href, cta_id: link.id || '' });
+  } else if (href.startsWith('mailto:')) {
+    trackLocalPestEvent('email_click', { link_url: href, cta_id: link.id || '' });
+  } else if (link.dataset.cta) {
+    trackLocalPestEvent('primary_cta_click', { link_url: href, cta_id: link.dataset.cta });
+  }
+});
+
+window.addEventListener('message', event => {
+  const data = event.data || {};
+  const eventType = typeof data === 'string' ? data : (data.type || data.eventName || '');
+  if (String(eventType).toLowerCase().includes('form-submit') || String(eventType).toLowerCase().includes('submit')) {
+    trackLocalPestEvent('generate_lead', { form_id: 'quote-form', form_provider: 'typeform' });
+  }
+});

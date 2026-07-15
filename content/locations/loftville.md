@@ -1,4 +1,5 @@
 +++
+noindex = true
 title = "Pest Control Loftville | Local Pest Co"
 description = "Licensed, eco-conscious pest control in Loftville for homes and businesses. Visits are scheduled around regular service runs across Lismore Region."
 keywords = [
